@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T13:41:52.321038355Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-23T10:50:34.874888449Z",
     "templateType": "trip_f",
     "propertyId": "a46e1a9e-535a-4c2f-8432-490ce5107c8e",
     "homepageId": "ab2b655e-826b-47b4-a180-a488a7cca25a"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의 필수",
-    "usageGuide": "[공지사항]\n※ 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n※ 반려동물은 알레르기 및 시설물 관리로 인하여 출입 금지입니다.\n※ 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n※ 예약 인원 외 방문객 및 외부인 출입 제한, 최대 기준 인원 초과 입실 불가합니다.\n※ 전 객실 금연, 촛불폭죽개인 화기 사용 금지입니다.\n※ 시설물 훼손 및 분실 시 이용자 책임입니다.\n※ 보호자 미동반 미성년자(만 19세 미만) 입실 불가합니다.\n※ 숙소 이미지는 실제와 상이할 수 있습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 7세 이상\n- 아동: 24개월 이상~7세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 인원 포함 여부 : 인원 추가비용은 발생하지않으나 기준인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 201호, 202호, 203호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00~00:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 겨울철 추위 있을 수 있음\n\n[개별바베큐]\n- 이용 객실: 301호, 302호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00 ~ 퇴실 까지\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[스파]\n- 이용 객실: 전객실\n- 이용 요금: 201호, 202호, 203호 무료 / 301호, 302호 온수 스위밍 스파 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n※ 온도: 301호, 302호 온수만 가능 (최대 40도)\n※ 입욕제 사용은 2층 스파만 가능\n※ 301호, 302호 온수 스위밍 스파는 투숙 1일 전 사전 예약 필수\n\n[부대시설]\n[카페]\n- 1층 카페 라온피네 운영 중\n- 이용료: 별도\n\n[OTT] \n- 이용가능 (개인계정)\n\n[편의 및 주변 시설]\n[주변 여행지]\n- 장등해수욕장 (도보 약 3분)\n- 여자만해넘이전망대 (차량 약 7분)\n- 여수챌린지파크 바다루지 (차량 약 14분)\n- 디오션리조트 워터파크 (차량 약 19분)\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소를 검색하시면 됩니다.\n- 지번 주소 : 전라남도 여수시 화양면 장수리 10-6\n- 도로명 주소 : 전라남도 여수시 화양면 장수로 143\n\n[대중교통 이용 시]\n- 여수 종합버스터미널 하차 - 시외버스터미널 27번 승차 - 장동마을 하차 - 도보 2분 - 여수 스테이 라온피네 스파 펜션 도착\n\n[주변관광지]\n- 장등해수욕장 (도보 약 3분)\n- 여자만해넘이전망대 (차량 약 7분)\n- 여수챌린지파크 바다루지 (차량 약 14분)\n- 디오션리조트 워터파크 (차량 약 19분)\n- 여수 낭만포차거리 (차량 약 30분 내외)\n- 오동도/동백군락지 (차량 약 30분 내외)",
+    "usageGuide": "※ 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n※ 반려동물은 알레르기 및 시설물 관리로 인하여 출입 금지입니다.\n※ 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n※ 예약 인원 외 방문객 및 외부인 출입 제한, 최대 기준 인원 초과 입실 불가합니다.\n※ 전 객실 금연, 촛불폭죽개인 화기 사용 금지입니다.\n※ 시설물 훼손 및 분실 시 이용자 책임입니다.\n※ 보호자 미동반 미성년자(만 19세 미만) 입실 불가합니다.\n※ 숙소 이미지는 실제와 상이할 수 있습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 7세 이상\n- 아동: 24개월 이상~7세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 영유아 인원 포함 여부 : 인원 추가비용은 발생하지않으나 기준인원에는 포함\n\n[공용바베큐]\n- 이용 객실: 201호, 202호, 203호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00~00:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 겨울철 추위 있을 수 있음\n\n[개별바베큐]\n- 이용 객실: 301호, 302호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00 ~ 퇴실 까지\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[스파]\n- 이용 객실: 전객실\n- 이용 요금: 201호, 202호, 203호 무료 / 301호, 302호 온수 스위밍 스파 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n※ 온도: 301호, 302호 온수만 가능 (최대 40도)\n※ 입욕제 사용은 2층 스파만 가능\n※ 301호, 302호 온수 스위밍 스파는 투숙 1일 전 사전 예약 필수\n\n[부대시설]\n[카페]\n- 1층 카페 라온피네 운영 중\n- 이용료: 별도\n\n[OTT] \n- 이용가능 (개인계정)\n\n[편의 및 주변 시설]\n[주변 여행지]\n- 장등해수욕장 (도보 약 3분)\n- 여자만해넘이전망대 (차량 약 7분)\n- 여수챌린지파크 바다루지 (차량 약 14분)\n- 디오션리조트 워터파크 (차량 약 19분)\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소를 검색하시면 됩니다.\n- 지번 주소 : 전라남도 여수시 화양면 장수리 10-6\n- 도로명 주소 : 전라남도 여수시 화양면 장수로 143\n\n[대중교통 이용 시]\n- 여수 종합버스터미널 하차 - 시외버스터미널 27번 승차 - 장동마을 하차 - 도보 2분 - 여수 스테이 라온피네 스파 펜션 도착\n\n[주변관광지]\n- 장등해수욕장 (도보 약 3분)\n- 여자만해넘이전망대 (차량 약 7분)\n- 여수챌린지파크 바다루지 (차량 약 14분)\n- 디오션리조트 워터파크 (차량 약 19분)\n- 여수 낭만포차거리 (차량 약 30분 내외)\n- 오동도/동백군락지 (차량 약 30분 내외)",
     "reservationGuide": "※ 외부 이용 시설 및 객실 비품은 숙소 사정에 따라 운영 변경 될 수 있습니다.\n※ 반려동물은 알레르기 및 시설물 관리로 인하여 출입 금지입니다.\n※ 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n※ 예약 인원 외 방문객 및 외부인 출입 제한, 최대 기준 인원 초과 입실 불가합니다.\n※ 전 객실 금연, 촛불폭죽개인 화기 사용 금지입니다.\n※ 시설물 훼손 및 분실 시 이용자 책임입니다.\n※ 보호자 미동반 미성년자(만 19세 미만) 입실 불가합니다.\n※ 숙소 이미지는 실제와 상이할 수 있습니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -71,11 +71,68 @@
     },
     "facilities": [
       {
+        "id": "01a16861-dd26-78aa-a505-92072566e61e",
+        "name": "오션뷰",
+        "description": "전 객실 오션뷰로\n탁 트인 푸른바다와 노을을 조망하실 수 있습니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a16861-ed46-7a62-bc5a-6e5884621598",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610156-4ldddywt99.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16861-edd5-7281-9013-875b7450b73f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610146-19g69fnucd.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16861-ecc9-7d47-922c-31b201b35ac1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610156-ns5k6gjpps.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16861-ed6d-7b3c-9f3f-f008fb5beab5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610147-cpr1qli2mz.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16861-edff-70e7-84ef-9d8f4915bc52",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610155-j7oc4oy5r0.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16861-ecae-708e-8681-e6419270bd8b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16861-dd26-78aa-a505-92072566e61e/main/1792752610148-tn5xz63yq1.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "56f1d4f7-e79c-41e3-a507-6622140593ec",
         "name": "스파",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 이용 요금: 201호, 202호, 203호 무료 / 301호, 302호 온수 스위밍 스파 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n※ 온도: 301호, 302호 온수만 가능 (최대 40도)\n※ 입욕제 사용은 2층 스파만 가능\n※ 301호, 302호 온수 스위밍 스파는 투숙 1일 전 사전 예약 필수",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "0c8fc1a0-1361-40f7-a44b-0a7c2790614b",
@@ -124,7 +181,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 301호, 302호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00 ~ 퇴실 까지\n- 우천 시 이용 가능\n- 동계 시 이용 가능",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "9f04047f-5157-4785-bb5b-61ef783bb74a",
@@ -173,7 +230,7 @@
         "name": "공용바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 201호, 202호, 203호\n- 바베큐 형태: 숯, 그릴\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: ~20:30\n- 이용 시간: 17:00~00:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 겨울철 추위 있을 수 있음",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "33abd76f-a026-4f76-b81e-05996c395888",
@@ -254,7 +311,7 @@
         "name": "부대시설",
         "description": "",
         "usageGuide": "[카페]\n- 1층 카페 라온피네 운영 중\n- 이용료: 별도\n\n[OTT] \n- 이용가능 (개인계정)",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "1ec4995e-08e9-4d92-a5b4-099a430d0584",
@@ -414,7 +471,7 @@
           {
             "id": "1214041e-c708-4088-80ae-301805b21142",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/Cw8Njb7ktRUq.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -424,7 +481,7 @@
           {
             "id": "27df6191-8e61-4b4d-9290-37c90d47bcc5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/oJ3M6kZqbpsS.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -432,7 +489,7 @@
           {
             "id": "b712b973-e367-4890-9077-65f32e6995fe",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/Zdg8Wa1oC6uT.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -440,7 +497,7 @@
           {
             "id": "f525471f-bd26-4d84-a23c-a2269d53b9ed",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/2bt1Fcf0veUu.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -448,7 +505,7 @@
           {
             "id": "dca8ceff-712f-4b42-a72a-667d87357fa5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/aJTSKWxN4pL2.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -456,7 +513,7 @@
           {
             "id": "46f4c9c2-9cf3-40bf-8740-db1532b36acd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/7Z85wNlG4yfH.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -464,7 +521,7 @@
           {
             "id": "6571a2af-f207-4c07-92a6-dc0ad6fc65e9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/KeFbSf7BxWkc.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -472,7 +529,7 @@
           {
             "id": "e33223ec-b095-4ef7-a8c7-5df4bc81f79e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/QNm6si5tDFa8.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -480,7 +537,7 @@
           {
             "id": "8339a74c-1b43-4219-b6d1-0ed33cbb905c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/hurU1WFDkbLG.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -488,7 +545,7 @@
           {
             "id": "9c7282db-4f8e-4fc1-8451-106a791078b9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/06/6zYKOfgpheuo.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2109,33 +2166,7 @@
           ]
         },
         "landing": {
-          "sections": [
-            {
-              "enabled": false,
-              "hero": {
-                "images": [ ]
-              },
-              "about": [
-                {
-                  "blockId": "sample-card-1",
-                  "propertyId": "sample-property-1",
-                  "propertyName": "현재 숙소",
-                  "title": "",
-                  "images": [ ],
-                  "order": 1
-                },
-                {
-                  "blockId": "sample-card-2",
-                  "propertyId": "sample-property-2",
-                  "propertyName": "연결 숙소 2",
-                  "domain": "http://localhost:8000/t-template-F",
-                  "title": "",
-                  "images": [ ],
-                  "order": 2
-                }
-              ]
-            }
-          ]
+          "sections": [ ]
         }
       },
       "popup": {
@@ -3082,7 +3113,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
